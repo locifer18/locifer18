@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ansh Kanda
 
-- **Role:** Developer & Student
+- **Role:** Developer
 - **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
 - **Projects:** 
   - Ecommerce Platform
