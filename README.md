@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Ansh Kanda
 
-<!--
-**locifer18/locifer18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Role:** Developer & Student
+- **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
+- **Projects:** 
+  - Ecommerce Platform
+  - Real-time Chat Application
+- **Portfolio:** [LinkedIn](https://linkedin.in/ansh-kanda)
+- **Interests:** Open Source Contribution
+- **Approach:** Professional & Driven
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect or collaborate on open source projects!
