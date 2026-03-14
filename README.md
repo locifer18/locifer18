@@ -324,10 +324,10 @@ new DeveloperGoals2025().execute();
 
 <br>
 
-<a href="https://linkedin.com/in/anshkanda">
+<a href="https://linkedin.com/in/ansh-kanda">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
-<a href="https://github.com/anshkanda">
+<a href="https://github.com/locifer18">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
 </a>
 <a href="mailto:anshkanda08@gmail.com">
@@ -336,7 +336,7 @@ new DeveloperGoals2025().execute();
 <a href="https://leetcode.com/anshkanda">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" />
 </a>
-<a href="https://anshkanda-portfolio.netlify.app">
+<a href="https://ansh-s-portfolio-six.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
 </a>
 
