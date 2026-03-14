@@ -103,8 +103,8 @@ const anshKanda: Developer = {
 
 <br>
 
-[![Live](https://img.shields.io/badge/LIVE-DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://shopeease.netlify.app)
-[![Code](https://img.shields.io/badge/VIEW-CODE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshkanda/shopeease)
+[![Live](https://img.shields.io/badge/LIVE-DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://luxury-begonia-e4acf2.netlify.app)
+[![Code](https://img.shields.io/badge/VIEW-CODE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/locifer18/mern-ecommerce-project)
 
 </td>
 <td width="50%">
@@ -131,8 +131,8 @@ const anshKanda: Developer = {
 
 <br>
 
-[![Live](https://img.shields.io/badge/LIVE-DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://chatapp-ansh.netlify.app)
-[![Code](https://img.shields.io/badge/VIEW-CODE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshkanda/realtime-chat)
+[![Live](https://img.shields.io/badge/LIVE-DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://reactchat-137a2.web.app/)
+[![Code](https://img.shields.io/badge/VIEW-CODE-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/locifer18/Real-Time-Chat-Application)
 
 </td>
 </tr>
@@ -210,12 +210,12 @@ const anshKanda: Developer = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=locifer18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshkanda&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=locifer18&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=locifer18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshkanda&theme=radical&utcOffset=5.5" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=locifer18&theme=radical&utcOffset=5.5" />
 </p>
 
 <!-- 3D Contribution Graph -->
@@ -267,7 +267,7 @@ const anshKanda: Developer = {
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/rocket.png"/>
-<br><strong>2 Projects</strong>
+<br><strong>3 Projects</strong>
 <br>Live & Deployed
 </td>
 <td align="center" width="25%">
