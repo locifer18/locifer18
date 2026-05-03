@@ -49,7 +49,7 @@ interface Developer {
 const anshKanda: Developer = {
   name: "Ansh Kanda",
   location: "Punjab, India 🇮🇳",
-  education: "Bachelor of Computer Application",
+  education: "Computer Science",
   cgpa: 8.4,
   role: ["Full Stack Developer", "Placement Coordinator"],
   expertise: ["MERN Stack", "Web Development", "DSA"],
