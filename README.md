@@ -3,6 +3,7 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Coder&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
+
 <!-- Glitch Effect Title -->
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+My+Digital+Universe;MERN+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Experiences" alt="Typing SVG" />
