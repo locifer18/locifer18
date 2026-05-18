@@ -228,23 +228,6 @@ const Coder: Developer = {
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- LeetCode Stats -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> LEETCODE CONQUEST
-
-<br>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/coder?theme=dark&font=Baloo%202&ext=contest&border=0&radius=20)](https://leetcode.com/anshkanda)
-
-<br>
-
-![](https://img.shields.io/badge/Problems_Solved-100%2B-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000)
-![](https://img.shields.io/badge/Topics_Mastered-Arrays_•_Strings_•_LinkedList_•_Trees-00FF88?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/DSA_Level-Intermediate-FFA116?style=for-the-badge&labelColor=000000)
-
-</div>
-
 <!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -324,29 +307,11 @@ new DeveloperGoals2025().execute();
 
 <br>
 
-<a href="https://linkedin.com/in/ansh-kanda">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
 <a href="https://github.com/locifer18">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
 </a>
-<a href="mailto:anshkanda08@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-<a href="https://leetcode.com/anshkanda">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" />
-</a>
-<a href="https://ansh-s-portfolio-six.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
-</a>
 
 <br><br>
-
-### 📧 Drop me a line!
-
-<a href="mailto:anshkanda08@gmail.com">
-  <img src="https://img.shields.io/badge/anshkanda08@gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-</a>
 
 <br>
 
