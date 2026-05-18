@@ -312,7 +312,7 @@ new DeveloperGoals2025().execute();
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
 </a>
 
-<br><br>
+<br>
 
 <br>
 
