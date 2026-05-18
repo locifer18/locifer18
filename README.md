@@ -16,7 +16,7 @@
 </p>
 
 <!-- Profile Views with Custom Style -->
-<img src="https://komarev.com/ghpvc/?username=anshkanda&label=VISITORS&style=for-the-badge&color=00D9FF&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=coder&label=VISITORS&style=for-the-badge&color=00D9FF&labelColor=000000" />
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -46,8 +46,8 @@ interface Developer {
   challenge: string;
 }
 
-const anshKanda: Developer = {
-  name: "Ansh Kanda",
+const Coder: Developer = {
+  name: "Coder",
   location: "Punjab, India 🇮🇳",
   education: "Computer Science",
   cgpa: 8.4,
@@ -235,7 +235,7 @@ const anshKanda: Developer = {
 
 <br>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/anshkanda?theme=dark&font=Baloo%202&ext=contest&border=0&radius=20)](https://leetcode.com/anshkanda)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/coder?theme=dark&font=Baloo%202&ext=contest&border=0&radius=20)](https://leetcode.com/anshkanda)
 
 <br>
 
