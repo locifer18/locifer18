@@ -7,7 +7,7 @@
 
 <!-- Glitch Effect Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+My+Digital+Universe;MERN+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe;MERN+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Experiences" alt="Typing SVG" />
 </h1>
 
 <!-- Aesthetic Badges -->
